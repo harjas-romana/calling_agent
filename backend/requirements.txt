@@ -18,9 +18,6 @@ SpeechRecognition==3.10.0
 pydantic==2.5.0
 python-json-logger==2.0.7
 
-# Your existing project dependencies
-# (These should match what you already have in your project)
-
 # Optional: For better development experience
 python-dotenv==1.0.0
 

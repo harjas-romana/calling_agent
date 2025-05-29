@@ -9,6 +9,7 @@ import subprocess
 import webbrowser
 import time
 from pathlib import Path
+from main import app  # Import the FastAPI app from main.py
 
 def check_requirements():
     """Check if all required dependencies are installed"""
@@ -73,16 +74,14 @@ def start_backend_server():
     
     try:
         # Import and run the main app
-        import uvicorn
         from main import app
         
         # Start server in a separate process for production
         # For development, we'll use the direct method
         print("🌐 Backend server starting at http://localhost:8000")
         print("📚 API Documentation available at http://localhost:8000/docs")
-        
-        uvicorn.run(
-            "main:app",
+
+        app.run(
             host="0.0.0.0",
             port=8000,
             reload=True,
@@ -185,3 +184,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
