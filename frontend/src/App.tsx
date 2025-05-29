@@ -1,13 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { 
-  Mic, 
-  MicOff, 
-  Send, 
-  Phone, 
+  Send,
   MessageCircle, 
   Calendar, 
-  ShoppingCart, 
-  MapPin, 
+  ShoppingCart,  
   Clock, 
   Star,
   Volume2,
@@ -49,7 +45,6 @@ const App: React.FC = () => {
   const [isListening, setIsListening] = useState(false);
   const [isMuted, setIsMuted] = useState(false);
   const [showReservationModal, setShowReservationModal] = useState(false);
-  const [currentOrder, setCurrentOrder] = useState<any>(null);
   const [conversationHistory, setConversationHistory] = useState<any[]>([]);
   
   // Refs
