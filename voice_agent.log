@@ -1,0 +1,764 @@
+2025-05-13 22:53:49 | INFO     | Voice agent initialized
+2025-05-13 22:53:49 | INFO     | Speaking: Welcome to Romana Restaurant. I'm your virtual assistant.
+2025-05-13 22:53:53 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 22:53:54 | INFO     | Speaking: How can I help you today?
+2025-05-13 22:53:56 | INFO     | Listening for user input
+2025-05-13 22:54:00 | INFO     | Processing speech input
+2025-05-13 22:54:01 | INFO     | Recognized speech: I want to book a table for two
+2025-05-13 22:54:04 | INFO     | Speaking: json
+{
+  "message": "I'm happy to help you with your reservation! For a table for two, would tonight work for you?"
+}
+2025-05-13 22:54:11 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 22:54:12 | INFO     | Speaking: How can I help you today?
+2025-05-13 22:54:14 | INFO     | Listening for user input
+2025-05-13 22:54:16 | INFO     | Processing speech input
+2025-05-13 22:54:18 | INFO     | Recognized speech: book it for tomorrow
+2025-05-13 22:54:20 | INFO     | Speaking: json
+{
+  "message": "Great! I've reserved a table for two for tomorrow. What time would you like to dine?"
+}
+2025-05-13 22:54:27 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 22:54:28 | INFO     | Speaking: How can I help you today?
+2025-05-13 22:54:30 | INFO     | Listening for user input
+2025-05-13 22:54:32 | INFO     | Processing speech input
+2025-05-13 22:54:33 | INFO     | Recognized speech: 10:00 p.m.
+2025-05-13 22:54:35 | INFO     | Speaking: json
+{
+  "message": "We have a table available for two at 10:00 p.m. tomorrow. Would you prefer indoor or outdoor seating?"
+}
+2025-05-13 22:54:43 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 22:54:44 | INFO     | Speaking: How can I help you today?
+2025-05-13 22:54:45 | INFO     | Listening for user input
+2025-05-13 22:54:48 | INFO     | Processing speech input
+2025-05-13 22:54:49 | INFO     | Recognized speech: outdoor seating
+2025-05-13 22:54:52 | INFO     | Speaking: json
+{
+  "message": "Perfect! I've booked a table for two for tomorrow at 10:00 p.m. with outdoor seating. Can I get your name and phone number to confirm the reservation?"
+}
+2025-05-13 22:55:03 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 22:55:04 | INFO     | Speaking: How can I help you today?
+2025-05-13 22:55:05 | INFO     | Listening for user input
+2025-05-13 22:55:11 | INFO     | Processing speech input
+2025-05-13 22:55:15 | INFO     | Recognized speech: name is John and phone number is + 919
+2025-05-13 22:55:17 | INFO     | Speaking: json
+{
+  "message": "Thank you, John. Your reservation is confirmed for tomorrow at 10:00 p.m. with outdoor seating. We look forward to seeing you!"
+}
+2025-05-13 22:55:27 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 22:55:28 | INFO     | Speaking: How can I help you today?
+2025-05-13 22:55:29 | INFO     | Listening for user input
+2025-05-13 22:55:32 | INFO     | Processing speech input
+2025-05-13 22:55:33 | INFO     | Recognized speech: thank you so much goodbye
+2025-05-13 22:55:33 | INFO     | Speaking: Thank you for contacting Romana Restaurant. Have a wonderful day!
+2025-05-13 23:01:04 | INFO     | Voice agent initialized
+2025-05-13 23:01:04 | INFO     | Speaking: Welcome to Romana Restaurant. I'm your virtual assistant.
+2025-05-13 23:01:09 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:01:09 | INFO     | Speaking: Welcome to Romana Restaurant. How may I assist you today?
+2025-05-13 23:01:13 | INFO     | Listening for user input
+2025-05-13 23:01:17 | INFO     | Processing speech input
+2025-05-13 23:01:19 | INFO     | Recognized speech: I need to book a table for two
+2025-05-13 23:01:19 | INFO     | Speaking: I'm looking that up right now.
+2025-05-13 23:01:24 | INFO     | Speaking: json
+{
+  "response": "I'm sorry, but I don't have the information to book a table for you. Would you like me to connect you to a human who can assist with your reservation?"
+}
+2025-05-13 23:01:35 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:01:36 | INFO     | Speaking: What other details would you like to share about your reservation?
+2025-05-13 23:01:39 | INFO     | Listening for user input
+2025-05-13 23:01:43 | INFO     | Processing speech input
+2025-05-13 23:01:45 | INFO     | Recognized speech: book a table for 2 on the
+2025-05-13 23:01:45 | INFO     | Speaking: One moment while I find that information.
+2025-05-13 23:01:50 | INFO     | Speaking: json
+{
+  "response": "I'm sorry, but I don't have the information to book a table for you. Would you like me to connect you to a human who can assist with your reservation?"
+}
+2025-05-13 23:02:01 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:02:02 | INFO     | Speaking: What other details would you like to share about your reservation?
+2025-05-13 23:02:06 | INFO     | Listening for user input
+2025-05-13 23:02:12 | INFO     | Processing speech input
+2025-05-13 23:02:13 | WARNING  | Speech recognition could not understand audio
+2025-05-13 23:02:13 | INFO     | Speaking: I didn't quite catch that. Could you please repeat?
+2025-05-13 23:02:17 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:02:18 | INFO     | Speaking: What other details would you like to share about your reservation?
+2025-05-13 23:02:22 | INFO     | Listening for user input
+2025-05-13 23:02:24 | INFO     | Processing speech input
+2025-05-13 23:02:26 | WARNING  | Speech recognition could not understand audio
+2025-05-13 23:02:26 | INFO     | Speaking: I didn't quite catch that. Could you please repeat?
+2025-05-13 23:02:30 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:02:31 | INFO     | Speaking: What other details would you like to share about your reservation?
+2025-05-13 23:02:35 | INFO     | Listening for user input
+2025-05-13 23:02:38 | INFO     | Processing speech input
+2025-05-13 23:02:39 | WARNING  | Speech recognition could not understand audio
+2025-05-13 23:02:39 | INFO     | Speaking: I didn't quite catch that. Could you please repeat?
+2025-05-13 23:02:43 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:02:44 | INFO     | Speaking: What other details would you like to share about your reservation?
+2025-05-13 23:02:47 | INFO     | Listening for user input
+2025-05-13 23:02:50 | INFO     | Processing speech input
+2025-05-13 23:02:51 | WARNING  | Speech recognition could not understand audio
+2025-05-13 23:02:51 | INFO     | Speaking: I didn't quite catch that. Could you please repeat?
+2025-05-13 23:02:56 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:02:57 | INFO     | Speaking: What other details would you like to share about your reservation?
+2025-05-13 23:03:00 | INFO     | Shutting down via keyboard interrupt
+2025-05-13 23:03:00 | INFO     | Speaking: Goodbye!
+2025-05-13 23:03:00 | ERROR    | Speech error: run loop already started
+2025-05-13 23:06:03 | INFO     | Voice agent initialized
+2025-05-13 23:06:25 | INFO     | Voice agent initialized
+2025-05-13 23:06:25 | INFO     | Speaking: Welcome to Romana Restaurant. I'm your virtual assistant.
+2025-05-13 23:06:30 | INFO     | Speaking: Welcome to Romana Restaurant. How may I assist you today?
+2025-05-13 23:06:34 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:06:35 | INFO     | Listening for user input
+2025-05-13 23:06:38 | INFO     | Processing speech input
+2025-05-13 23:06:39 | INFO     | Recognized speech: I need to book a table for two
+2025-05-13 23:06:39 | INFO     | Speaking: Just a second while I get those details.
+2025-05-13 23:06:47 | INFO     | Speaking: json
+{
+  "intent": "book_table",
+  "response": "Sure, I'd be happy to help you book a table for two. Could you please specify the date and time you'd like to book for?",
+  "entities": {
+    "party_size": "two"
+  }
+}
+2025-05-13 23:07:00 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:07:01 | INFO     | Listening for user input
+2025-05-13 23:07:07 | INFO     | Processing speech input
+2025-05-13 23:07:09 | INFO     | Recognized speech: book it for another name John and for tomorrow
+2025-05-13 23:07:09 | INFO     | Speaking: I'm looking that up right now.
+2025-05-13 23:07:15 | INFO     | Speaking: json
+{
+  "intent": "book_table",
+  "response": "Sure, I have booked a table for two under the name John for tomorrow. Could you please specify the time you'd like to book for?",
+  "entities": {
+    "party_size": "two",
+    "reservation_name": "John",
+    "reservation_date": "tomorrow"
+  }
+}
+2025-05-13 23:07:33 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:07:34 | INFO     | Listening for user input
+2025-05-13 23:07:37 | INFO     | Processing speech input
+2025-05-13 23:07:38 | INFO     | Recognized speech: 9:00 p.m.
+2025-05-13 23:07:41 | INFO     | Speaking: json
+{
+  "intent": "book_table",
+  "response": "Great! I have successfully booked a table for two under the name John for tomorrow at 9:00 p.m. We look forward to welcoming you to Romana Restaurant!",
+  "entities": {
+    "party_size": "two",
+    "reservation_name": "John",
+    "reservation_date": "tomorrow",
+    "reservation_time": "9:00 p.m."
+  }
+}
+2025-05-13 23:07:51 | INFO     | Shutting down via keyboard interrupt
+2025-05-13 23:07:51 | INFO     | Speaking: Goodbye!
+2025-05-13 23:07:51 | ERROR    | Speech error: run loop already started
+2025-05-13 23:15:17 | INFO     | Voice agent initialized
+2025-05-13 23:15:17 | INFO     | Speaking: Welcome to Romana Restaurant! I'm your virtual assistant here to help you.
+2025-05-13 23:15:22 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:15:23 | INFO     | Listening for user input
+2025-05-13 23:15:26 | INFO     | Processing speech input
+2025-05-13 23:15:28 | INFO     | Recognized speech: I need to book a table for two
+2025-05-13 23:15:32 | INFO     | Speaking: Sorry, I didn’t understand that.
+2025-05-13 23:15:34 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:15:35 | INFO     | Listening for user input
+2025-05-13 23:15:39 | INFO     | Processing speech input
+2025-05-13 23:15:40 | INFO     | Recognized speech: book a table for
+2025-05-13 23:15:44 | INFO     | Speaking: Sorry, I didn’t understand that.
+2025-05-13 23:15:46 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:15:47 | INFO     | Listening for user input
+2025-05-13 23:15:52 | INFO     | Processing speech input
+2025-05-13 23:15:53 | INFO     | Recognized speech: book a table for
+2025-05-13 23:15:56 | INFO     | Speaking: Sorry, I didn’t understand that.
+2025-05-13 23:15:58 | INFO     | Shutting down via keyboard interrupt
+2025-05-13 23:15:58 | INFO     | Speaking: Goodbye! Have a great day!
+2025-05-13 23:15:58 | ERROR    | Speech error: run loop already started
+2025-05-13 23:16:52,521 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:16:52,521 - __main__ - INFO - Speaking: Welcome to Romana Restaurant. How can I help you today?
+2025-05-13 23:16:56,757 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:16:57,740 - __main__ - INFO - Listening for user input
+2025-05-13 23:17:00,812 - __main__ - INFO - Processing speech input
+2025-05-13 23:17:02,397 - __main__ - INFO - Recognized speech: I need to book a table for two
+2025-05-13 23:17:02,510 - __main__ - INFO - Speaking: Let me check that.
+2025-05-13 23:17:03,741 - __main__ - INFO - Speaking: Sure, help you book a table for two. Please specify the date and time you'd like to book for?
+2025-05-13 23:17:09,756 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:17:10,745 - __main__ - INFO - Listening for user input
+2025-05-13 23:17:12,278 - __main__ - INFO - Processing speech input
+2025-05-13 23:17:13,227 - __main__ - INFO - Recognized speech: tomorrow 10:00 p.m.
+2025-05-13 23:17:13,340 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:17:19,605 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:17:20,594 - __main__ - INFO - Listening for user input
+2025-05-13 23:17:22,856 - __main__ - INFO - Processing speech input
+2025-05-13 23:17:23,922 - __main__ - INFO - Recognized speech: help me with the booking
+2025-05-13 23:17:24,034 - __main__ - INFO - Speaking: help you book a table. Please provide details such as the number of people, date, and time?
+2025-05-13 23:17:30,286 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:17:31,273 - __main__ - INFO - Listening for user input
+2025-05-13 23:17:34,707 - __main__ - INFO - Processing speech input
+2025-05-13 23:17:35,998 - __main__ - INFO - Recognized speech: two people for tomorrow at 10:00 p.m.
+2025-05-13 23:17:36,114 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:17:41,396 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:17:41,396 - __main__ - INFO - Speaking: Goodbye!
+2025-05-13 23:17:41,396 - __main__ - ERROR - Speech error: run loop already started
+2025-05-13 23:30:41,653 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:30:41,654 - __main__ - INFO - Speaking: Hello, I'm Romana's virtual host. Our chef's special today is truffle risotto. How may I assist you?
+2025-05-13 23:30:49,444 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:30:50,430 - __main__ - INFO - Listening for user input
+2025-05-13 23:30:54,502 - __main__ - INFO - Processing speech input
+2025-05-13 23:30:56,040 - __main__ - INFO - Recognized speech: I need to book a table for two
+2025-05-13 23:30:56,153 - __main__ - INFO - Speaking: Looking that up.
+2025-05-13 23:30:57,090 - __main__ - INFO - Speaking: I'll help you with your reservation. Please let me know the preferred date and preferred time?
+2025-05-13 23:31:02,474 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:31:03,462 - __main__ - INFO - Listening for user input
+2025-05-13 23:31:06,125 - __main__ - INFO - Processing speech input
+2025-05-13 23:31:07,333 - __main__ - INFO - Recognized speech: tomorrow at 10:00 p.m. tomorrow
+2025-05-13 23:31:07,454 - __main__ - INFO - Speaking: Welcome to Romana Restaurant! We specialize in authentic Italian cuisine. How can I help you today?
+2025-05-13 23:31:14,414 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:31:15,395 - __main__ - INFO - Listening for user input
+2025-05-13 23:31:17,959 - __main__ - INFO - Processing speech input
+2025-05-13 23:31:19,284 - __main__ - INFO - Recognized speech: help me with the reservation
+2025-05-13 23:31:19,398 - __main__ - INFO - Speaking: I'll help you with your reservation. Please let me know the preferred date and preferred time?
+2025-05-13 23:31:24,758 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:31:25,739 - __main__ - INFO - Listening for user input
+2025-05-13 23:31:27,941 - __main__ - INFO - Processing speech input
+2025-05-13 23:31:28,963 - __main__ - INFO - Recognized speech: tomorrow 10:00 p.m.
+2025-05-13 23:31:29,077 - __main__ - INFO - Speaking: Welcome to Romana Restaurant, Elegant yet relaxed setting with rustic Italian décor. How can I assist you today?
+2025-05-13 23:31:37,404 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:31:38,392 - __main__ - INFO - Listening for user input
+2025-05-13 23:31:40,994 - __main__ - INFO - Processing speech input
+2025-05-13 23:31:42,629 - __main__ - INFO - Recognized speech: table book a table for two under
+2025-05-13 23:31:42,744 - __main__ - INFO - Speaking: I'll help you with your reservation. Please let me know the preferred date and preferred time?
+2025-05-13 23:31:48,110 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:31:49,093 - __main__ - INFO - Listening for user input
+2025-05-13 23:31:54,135 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:31:54,136 - __main__ - INFO - Speaking: Goodbye! We look forward to seeing you at Romana Restaurant.
+2025-05-13 23:32:50,598 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:32:50,598 - __main__ - INFO - Speaking: Hello, I'm Romana's virtual host. Our chef's special today is truffle risotto. How may I assist you?
+2025-05-13 23:32:58,456 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:32:59,443 - __main__ - INFO - Listening for user input
+2025-05-13 23:33:02,389 - __main__ - INFO - Processing speech input
+2025-05-13 23:33:03,871 - __main__ - INFO - Recognized speech: what are the special items today
+2025-05-13 23:33:03,980 - __main__ - INFO - Speaking: Our menu features authentic Italian cuisine. Today's special is Osso buco with saffron risotto. Would you like to hear about our pasta, pizza, or wine selection?
+2025-05-13 23:33:15,780 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:33:16,760 - __main__ - INFO - Listening for user input
+2025-05-13 23:33:22,659 - __main__ - WARNING - No speech detected within timeout period
+2025-05-13 23:33:23,759 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:33:24,740 - __main__ - INFO - Listening for user input
+2025-05-13 23:33:27,198 - __main__ - INFO - Processing speech input
+2025-05-13 23:33:28,315 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-13 23:33:28,316 - __main__ - INFO - Speaking: Please repeat that? I want to make sure I help you correctly.
+2025-05-13 23:33:33,397 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:33:34,380 - __main__ - INFO - Listening for user input
+2025-05-13 23:33:36,216 - __main__ - INFO - Processing speech input
+2025-05-13 23:33:37,350 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-13 23:33:37,351 - __main__ - INFO - Speaking: Please repeat that? I want to make sure I help you correctly.
+2025-05-13 23:33:42,408 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:33:43,393 - __main__ - INFO - Listening for user input
+2025-05-13 23:33:46,188 - __main__ - INFO - Processing speech input
+2025-05-13 23:33:47,399 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-13 23:33:47,399 - __main__ - INFO - Speaking: Please repeat that? I want to make sure I help you correctly.
+2025-05-13 23:33:52,485 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:33:53,472 - __main__ - INFO - Listening for user input
+2025-05-13 23:33:58,574 - __main__ - WARNING - No speech detected within timeout period
+2025-05-13 23:33:59,691 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:34:00,675 - __main__ - INFO - Listening for user input
+2025-05-13 23:34:05,050 - __main__ - INFO - Processing speech input
+2025-05-13 23:34:06,050 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-13 23:34:06,050 - __main__ - INFO - Speaking: Please repeat that? I want to make sure I help you correctly.
+2025-05-13 23:34:11,148 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:34:12,133 - __main__ - INFO - Listening for user input
+2025-05-13 23:34:14,542 - __main__ - INFO - Processing speech input
+2025-05-13 23:34:15,627 - __main__ - INFO - Recognized speech: who is the owner
+2025-05-13 23:34:15,736 - __main__ - INFO - Speaking: Welcome to Romana Restaurant! We specialize in authentic Italian cuisine. How can I help you today?
+2025-05-13 23:34:22,698 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:34:23,682 - __main__ - INFO - Listening for user input
+2025-05-13 23:34:26,094 - __main__ - INFO - Processing speech input
+2025-05-13 23:34:27,282 - __main__ - INFO - Recognized speech: who is the owner
+2025-05-13 23:34:27,399 - __main__ - INFO - Speaking: Welcome to Romana Restaurant, Elegant yet relaxed setting with rustic Italian décor. How can I assist you today?
+2025-05-13 23:34:35,731 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:34:36,713 - __main__ - INFO - Listening for user input
+2025-05-13 23:34:39,300 - __main__ - INFO - Processing speech input
+2025-05-13 23:34:40,540 - __main__ - INFO - Recognized speech: book a table for 5
+2025-05-13 23:34:40,660 - __main__ - INFO - Speaking: I'll help you with your reservation. Please let me know the preferred date and preferred time?
+2025-05-13 23:34:46,030 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:34:47,018 - __main__ - INFO - Listening for user input
+2025-05-13 23:34:49,938 - __main__ - INFO - Processing speech input
+2025-05-13 23:34:51,029 - __main__ - INFO - Recognized speech: 5:00 p.m. tomorrow
+2025-05-13 23:34:51,143 - __main__ - INFO - Speaking: Welcome to Romana Restaurant, Elegant yet relaxed setting with rustic Italian décor. How can I assist you today?
+2025-05-13 23:34:56,068 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:34:56,068 - __main__ - INFO - Speaking: Goodbye! We look forward to seeing you at Romana Restaurant.
+2025-05-13 23:34:56,068 - __main__ - ERROR - Speech error: run loop already started
+2025-05-13 23:35:23,525 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:35:23,525 - __main__ - INFO - Speaking: Thanks for calling Romana Restaurant. We've just received fresh seafood for our specials. What can I do for you?
+2025-05-13 23:35:31,941 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:35:32,926 - __main__ - INFO - Listening for user input
+2025-05-13 23:35:35,124 - __main__ - INFO - Processing speech input
+2025-05-13 23:35:40,913 - __main__ - INFO - Recognized speech: table for 2 people
+2025-05-13 23:35:41,030 - __main__ - ERROR - Query processing error: 'RAGLayer' object has no attribute 'generate_response'
+2025-05-13 23:35:41,031 - __main__ - INFO - Speaking: I'm having trouble with that question. Please try again.
+2025-05-13 23:35:44,656 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:35:45,640 - __main__ - INFO - Listening for user input
+2025-05-13 23:35:49,077 - __main__ - INFO - Processing speech input
+2025-05-13 23:35:50,640 - __main__ - INFO - Recognized speech: book a table for two people
+2025-05-13 23:35:50,761 - __main__ - ERROR - Query processing error: 'RAGLayer' object has no attribute 'generate_response'
+2025-05-13 23:35:50,762 - __main__ - INFO - Speaking: I'm having trouble with that question. Please try again.
+2025-05-13 23:35:54,386 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:35:55,370 - __main__ - INFO - Listening for user input
+2025-05-13 23:36:00,107 - __main__ - INFO - Processing speech input
+2025-05-13 23:36:01,095 - __main__ - INFO - Recognized speech: book a reservation for two
+2025-05-13 23:36:01,217 - __main__ - ERROR - Query processing error: 'RAGLayer' object has no attribute 'generate_response'
+2025-05-13 23:36:01,217 - __main__ - INFO - Speaking: I'm having trouble with that question. Please try again.
+2025-05-13 23:36:04,840 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:36:05,825 - __main__ - INFO - Listening for user input
+2025-05-13 23:36:08,302 - __main__ - INFO - Processing speech input
+2025-05-13 23:36:09,787 - __main__ - INFO - Recognized speech: what trouble you are having
+2025-05-13 23:36:09,905 - __main__ - ERROR - Query processing error: 'RAGLayer' object has no attribute 'generate_response'
+2025-05-13 23:36:09,905 - __main__ - INFO - Speaking: I'm having trouble with that question. Please try again.
+2025-05-13 23:36:12,840 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:36:12,840 - __main__ - INFO - Speaking: Goodbye! We look forward to seeing you at Romana Restaurant.
+2025-05-13 23:36:12,840 - __main__ - ERROR - Speech error: run loop already started
+2025-05-13 23:37:01,024 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:37:01,024 - __main__ - INFO - Speaking: Hello, I'm Romana's assistant. What can I do for you?
+2025-05-13 23:37:05,355 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:37:06,343 - __main__ - INFO - Listening for user input
+2025-05-13 23:37:09,753 - __main__ - INFO - Processing speech input
+2025-05-13 23:37:11,840 - __main__ - INFO - Recognized speech: I need to book a table for two
+2025-05-13 23:37:11,948 - __main__ - INFO - Speaking: One moment.
+2025-05-13 23:37:12,791 - __main__ - INFO - Speaking: Sure, help you book a table for two. Please specify the date and time you'd like to book for?
+2025-05-13 23:37:18,805 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:37:19,790 - __main__ - INFO - Listening for user input
+2025-05-13 23:37:22,115 - __main__ - INFO - Processing speech input
+2025-05-13 23:37:23,225 - __main__ - INFO - Recognized speech: tomorrow 5:00 p.m.
+2025-05-13 23:37:23,344 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:37:29,639 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:37:30,626 - __main__ - INFO - Listening for user input
+2025-05-13 23:37:31,398 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:37:31,399 - __main__ - INFO - Speaking: Goodbye!
+2025-05-13 23:37:33 | INFO     | Voice agent initialized
+2025-05-13 23:37:33 | INFO     | Speaking: Welcome to Romana Restaurant. I'm your virtual assistant.
+2025-05-13 23:37:37 | INFO     | Speaking: Welcome! I'm here to assist with anything related to Romana Restaurant.
+2025-05-13 23:37:42 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:37:43 | INFO     | Listening for user input
+2025-05-13 23:37:46 | INFO     | Processing speech input
+2025-05-13 23:37:48 | INFO     | Recognized speech: I need to book a table for two
+2025-05-13 23:37:48 | INFO     | Speaking: Just a second while I get those details.
+2025-05-13 23:37:54 | INFO     | Speaking: python
+def book_table(num_people):
+    if num_people == 2:
+        return "Sure, I can help you with that. Please provide me with your preferred date and time."
+    else:
+        return "I'm sorry, but I can only assist with tables for two at the moment. Would you like to book a table for two?"
+2025-05-13 23:38:14 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:38:15 | INFO     | Listening for user input
+2025-05-13 23:38:21 | INFO     | Processing speech input
+2025-05-13 23:38:23 | WARNING  | Speech recognition could not understand audio
+2025-05-13 23:38:23 | INFO     | Speaking: I didn't quite catch that. Could you please repeat?
+2025-05-13 23:38:28 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:38:29 | INFO     | Listening for user input
+2025-05-13 23:38:31 | INFO     | Processing speech input
+2025-05-13 23:38:33 | INFO     | Recognized speech: a table for two under
+2025-05-13 23:38:36 | INFO     | Speaking: python
+def book_table(num_people):
+    if num_people == 2:
+        return "Sure, I can help you with that. Please provide me with your preferred date and time."
+    else:
+        return "I'm sorry, but I can only assist with tables for two at the moment. Would you like to book a table for two?"
+2025-05-13 23:38:44 | INFO     | Shutting down via keyboard interrupt
+2025-05-13 23:38:44 | INFO     | Speaking: Goodbye!
+2025-05-13 23:38:47 | INFO     | Voice agent initialized
+2025-05-13 23:38:56 | INFO     | Voice agent initialized
+2025-05-13 23:39:07 | INFO     | Voice agent initialized
+2025-05-13 23:39:07 | INFO     | Speaking: Welcome to Romana Restaurant. I'm your virtual assistant.
+2025-05-13 23:39:11 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:39:12 | INFO     | Speaking: How can I help you today?
+2025-05-13 23:39:14 | INFO     | Listening for user input
+2025-05-13 23:39:16 | INFO     | Processing speech input
+2025-05-13 23:39:18 | INFO     | Recognized speech: I need to book a table for 2
+2025-05-13 23:39:22 | INFO     | Speaking: json
+{
+  "response": "I'm sorry, but I don't have the information to book a table for you. Would you like me to connect you to a human who can assist with your reservation?"
+}
+2025-05-13 23:39:32 | INFO     | Adjusting microphone for ambient noise
+2025-05-13 23:39:33 | INFO     | Speaking: How can I help you today?
+2025-05-13 23:39:35 | INFO     | Shutting down via keyboard interrupt
+2025-05-13 23:39:35 | INFO     | Speaking: Goodbye!
+2025-05-13 23:39:35 | ERROR    | Speech error: run loop already started
+2025-05-13 23:41:09,903 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:41:09,903 - __main__ - INFO - Speaking: Hello, I'm Romana's virtual host. Our chef's special today is truffle risotto. How may I assist you?
+2025-05-13 23:41:17,538 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:41:18,520 - __main__ - INFO - Listening for user input
+2025-05-13 23:41:21,317 - __main__ - INFO - Processing speech input
+2025-05-13 23:41:22,659 - __main__ - INFO - Recognized speech: book a table for 2
+2025-05-13 23:41:22,776 - __main__ - ERROR - Query processing error: 'RAGLayer' object has no attribute 'generate_response'
+2025-05-13 23:41:22,776 - __main__ - INFO - Speaking: I'm having trouble with that question. Please try again.
+2025-05-13 23:41:26,377 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:41:27,366 - __main__ - INFO - Listening for user input
+2025-05-13 23:41:29,665 - __main__ - INFO - Processing speech input
+2025-05-13 23:41:30,736 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-13 23:41:30,737 - __main__ - INFO - Speaking: Please repeat that? I want to make sure I help you correctly.
+2025-05-13 23:41:35,833 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:41:36,817 - __main__ - INFO - Listening for user input
+2025-05-13 23:41:38,633 - __main__ - INFO - Processing speech input
+2025-05-13 23:41:39,680 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-13 23:41:39,680 - __main__ - INFO - Speaking: Please repeat that? I want to make sure I help you correctly.
+2025-05-13 23:41:44,771 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:41:45,760 - __main__ - INFO - Listening for user input
+2025-05-13 23:41:50,909 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:41:50,909 - __main__ - INFO - Speaking: Welcome to Romana Restaurant. How can I help you today?
+2025-05-13 23:41:55,119 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:41:56,100 - __main__ - INFO - Listening for user input
+2025-05-13 23:41:58,751 - __main__ - INFO - Processing speech input
+2025-05-13 23:42:00,046 - __main__ - INFO - Recognized speech: what are the special items
+2025-05-13 23:42:00,156 - __main__ - INFO - Speaking: Our menu features authentic Italian cuisine. Today's specials include homemade lasagna, risotto with wild mushrooms, and tiramisu for dessert. Would you like to know about any specific dishes?
+2025-05-13 23:42:13,645 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:42:14,630 - __main__ - INFO - Listening for user input
+2025-05-13 23:42:18,190 - __main__ - INFO - Processing speech input
+2025-05-13 23:42:20,311 - __main__ - INFO - Recognized speech: I need to book a table for two
+2025-05-13 23:42:20,423 - __main__ - INFO - Speaking: Just a second.
+2025-05-13 23:42:21,507 - __main__ - INFO - Speaking: Sure, help you book a table for two. Please specify the date and time you'd like to book for?
+2025-05-13 23:42:27,487 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:42:28,473 - __main__ - INFO - Listening for user input
+2025-05-13 23:42:31,734 - __main__ - INFO - Processing speech input
+2025-05-13 23:42:32,901 - __main__ - INFO - Recognized speech: Monday 5:00 p.m.
+2025-05-13 23:42:33,015 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:42:39,271 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:42:40,256 - __main__ - INFO - Listening for user input
+2025-05-13 23:42:44,481 - __main__ - INFO - Processing speech input
+2025-05-13 23:42:46,331 - __main__ - INFO - Recognized speech: just book a table for Monday 5:00 p.m.
+2025-05-13 23:42:46,441 - __main__ - INFO - Speaking: Let me check that.
+2025-05-13 23:42:47,686 - __main__ - INFO - Speaking: help you book a table. Please provide details such as the number of people, date, and time?
+2025-05-13 23:42:53,942 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:42:54,926 - __main__ - INFO - Listening for user input
+2025-05-13 23:42:58,960 - __main__ - INFO - Processing speech input
+2025-05-13 23:43:00,974 - __main__ - INFO - Recognized speech: number of number of people are two date is 5:00 p.m.
+2025-05-13 23:43:01,088 - __main__ - INFO - Speaking: Just a second.
+2025-05-13 23:43:02,172 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:43:08,463 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:43:08,602 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:43:08,603 - __main__ - INFO - Speaking: Goodbye!
+2025-05-13 23:43:54,634 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:43:54,634 - __main__ - INFO - Speaking: Hello, I'm Romana's assistant. What can I do for you?
+2025-05-13 23:43:58,915 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:43:59,897 - __main__ - INFO - Listening for user input
+2025-05-13 23:44:03,892 - __main__ - INFO - Processing speech input
+2025-05-13 23:44:05,195 - __main__ - INFO - Recognized speech: what are the special items today
+2025-05-13 23:44:05,305 - __main__ - INFO - Speaking: Our menu features authentic Italian cuisine. Today's specials include homemade lasagna, risotto with wild mushrooms, and tiramisu for dessert. Would you like to know about any specific dishes?
+2025-05-13 23:44:18,801 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:44:19,787 - __main__ - INFO - Listening for user input
+2025-05-13 23:44:23,136 - __main__ - INFO - Processing speech input
+2025-05-13 23:44:24,579 - __main__ - INFO - Recognized speech: no thank you so much
+2025-05-13 23:44:24,689 - __main__ - INFO - Speaking: You're welcome.
+2025-05-13 23:44:37,078 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:44:37,079 - __main__ - INFO - Speaking: Welcome to Romana Restaurant. How can I help you today?
+2025-05-13 23:44:41,270 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:44:42,253 - __main__ - INFO - Listening for user input
+2025-05-13 23:44:46,178 - __main__ - INFO - Processing speech input
+2025-05-13 23:44:49,539 - __main__ - INFO - Recognized speech: I need to book a table for two
+2025-05-13 23:44:49,653 - __main__ - INFO - Speaking: One moment.
+2025-05-13 23:44:50,499 - __main__ - INFO - Speaking: Sure, help you book a table for two. Please specify the date and time you'd like to book for?
+2025-05-13 23:44:56,491 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:44:57,475 - __main__ - INFO - Listening for user input
+2025-05-13 23:45:00,826 - __main__ - INFO - Processing speech input
+2025-05-13 23:45:01,906 - __main__ - INFO - Recognized speech: tomorrow 5:00 p.m.
+2025-05-13 23:45:02,014 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:45:08,272 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:45:09,253 - __main__ - INFO - Listening for user input
+2025-05-13 23:45:13,225 - __main__ - INFO - Processing speech input
+2025-05-13 23:45:14,532 - __main__ - INFO - Recognized speech: I want to try out Chinese
+2025-05-13 23:45:14,646 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:45:20,270 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-13 23:45:20,270 - __main__ - INFO - Speaking: Goodbye!
+2025-05-13 23:45:20,270 - __main__ - ERROR - Speech error: run loop already started
+2025-05-13 23:45:33,196 - __main__ - INFO - Voice agent initialized
+2025-05-13 23:45:33,196 - __main__ - INFO - Speaking: Welcome to Romana Restaurant. How can I help you today?
+2025-05-13 23:45:37,409 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:45:38,390 - __main__ - INFO - Listening for user input
+2025-05-13 23:45:42,872 - __main__ - INFO - Processing speech input
+2025-05-13 23:45:45,790 - __main__ - INFO - Recognized speech: I need to book a table for two people
+2025-05-13 23:45:45,904 - __main__ - INFO - Speaking: Just a second.
+2025-05-13 23:45:46,989 - __main__ - INFO - Speaking: Sure, help you book a table for two. Please specify the date and time you'd like to book for?
+2025-05-13 23:45:52,968 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:45:53,953 - __main__ - INFO - Listening for user input
+2025-05-13 23:45:57,751 - __main__ - INFO - Processing speech input
+2025-05-13 23:45:58,955 - __main__ - INFO - Recognized speech: Thursday 10:00 p.m.
+2025-05-13 23:45:59,066 - __main__ - INFO - Speaking: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-13 23:46:05,326 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-13 23:46:06,307 - __main__ - INFO - Listening for user input
+2025-05-13 23:46:09,507 - __main__ - INFO - Processing speech input
+2025-05-13 23:46:10,945 - __main__ - INFO - Recognized speech: thank you so much for help
+2025-05-13 23:46:11,054 - __main__ - INFO - Speaking: You're welcome.
+2025-05-15 23:07:31,816 - __main__ - ERROR - PlayHT API test failed: 403 - {"error_id":"UNSUPPORTED_PLAN","error_message":"API access is not available on your current plan. Visit https://play.ht/pricing to upgrade.","timestamp":"2025-05-15T17:37:34.273Z","play_request_id":"q7uLhixnsdLOgfJqlA6mT"}
+2025-05-15 23:07:31,820 - __main__ - ERROR - PlayHT connection validation error: PlayHT API test failed: 403 - {"error_id":"UNSUPPORTED_PLAN","error_message":"API access is not available on your current plan. Visit https://play.ht/pricing to upgrade.","timestamp":"2025-05-15T17:37:34.273Z","play_request_id":"q7uLhixnsdLOgfJqlA6mT"}
+2025-05-15 23:07:31,820 - __main__ - ERROR - Initialization failed: PlayHT API test failed: 403 - {"error_id":"UNSUPPORTED_PLAN","error_message":"API access is not available on your current plan. Visit https://play.ht/pricing to upgrade.","timestamp":"2025-05-15T17:37:34.273Z","play_request_id":"q7uLhixnsdLOgfJqlA6mT"}
+2025-05-15 23:13:59,281 - __main__ - ERROR - PlayHT API test failed: 403 - {"error_id":"UNSUPPORTED_PLAN","error_message":"API access is not available on your current plan. Visit https://play.ht/pricing to upgrade.","timestamp":"2025-05-15T17:44:01.865Z","play_request_id":"dzDjpf80ln2_TaiCvkZI1"}
+2025-05-15 23:13:59,283 - __main__ - ERROR - PlayHT connection validation error: PlayHT API test failed: 403 - {"error_id":"UNSUPPORTED_PLAN","error_message":"API access is not available on your current plan. Visit https://play.ht/pricing to upgrade.","timestamp":"2025-05-15T17:44:01.865Z","play_request_id":"dzDjpf80ln2_TaiCvkZI1"}
+2025-05-15 23:13:59,283 - __main__ - ERROR - Initialization failed: PlayHT API test failed: 403 - {"error_id":"UNSUPPORTED_PLAN","error_message":"API access is not available on your current plan. Visit https://play.ht/pricing to upgrade.","timestamp":"2025-05-15T17:44:01.865Z","play_request_id":"dzDjpf80ln2_TaiCvkZI1"}
+2025-05-15 23:15:38,183 - __main__ - ERROR - PlayHT connection validation error: 'EnhancedVoiceAgent' object has no attribute 'playht_user_id'
+2025-05-15 23:15:38,184 - __main__ - ERROR - Initialization failed: 'EnhancedVoiceAgent' object has no attribute 'playht_user_id'
+2025-05-15 23:16:35,258 - __main__ - ERROR - PlayHT API test failed: 401 - {"error_id":"UNAUTHORIZED","error_message":"Invalid X-User-Id header: a string with exactly 28 characters is expected (no value was provided). Please double check the supplied value or refer to https://docs.play.ht/reference/api-authentication for more info.","timestamp":"2025-05-15T17:46:37.854Z","play_request_id":"_eyOc0BXKHLjY-Nv8kGc6"}
+2025-05-15 23:16:35,258 - __main__ - ERROR - PlayHT connection validation error: PlayHT API test failed: 401 - {"error_id":"UNAUTHORIZED","error_message":"Invalid X-User-Id header: a string with exactly 28 characters is expected (no value was provided). Please double check the supplied value or refer to https://docs.play.ht/reference/api-authentication for more info.","timestamp":"2025-05-15T17:46:37.854Z","play_request_id":"_eyOc0BXKHLjY-Nv8kGc6"}
+2025-05-15 23:16:35,258 - __main__ - ERROR - Initialization failed: PlayHT API test failed: 401 - {"error_id":"UNAUTHORIZED","error_message":"Invalid X-User-Id header: a string with exactly 28 characters is expected (no value was provided). Please double check the supplied value or refer to https://docs.play.ht/reference/api-authentication for more info.","timestamp":"2025-05-15T17:46:37.854Z","play_request_id":"_eyOc0BXKHLjY-Nv8kGc6"}
+2025-05-15 23:27:05,514 - __main__ - INFO - Voice agent initialized
+2025-05-15 23:28:15,356 - __main__ - INFO - Voice agent initialized
+2025-05-15 23:32:57,170 - __main__ - INFO - Voice agent initialized
+2025-05-15 23:32:57,171 - __main__ - INFO - Speaking with Speechify: Thanks for calling Romana Restaurant. How may I help?
+2025-05-15 23:32:58,239 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1039be510>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:32:58,495 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:32:59,445 - __main__ - INFO - Listening for user input
+2025-05-15 23:33:04,954 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:33:06,072 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:33:07,037 - __main__ - INFO - Listening for user input
+2025-05-15 23:33:09,852 - __main__ - INFO - Processing speech input
+2025-05-15 23:33:11,051 - __main__ - INFO - Recognized speech: special today
+2025-05-15 23:33:11,183 - __main__ - INFO - Speaking with Speechify: Our menu features authentic Italian cuisine. Today's specials include homemade lasagna, risotto with wild mushrooms, and tiramisu for dessert. Would you like to know about any specific dishes?
+2025-05-15 23:33:11,188 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103a0d450>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:33:11,283 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:33:12,247 - __main__ - INFO - Listening for user input
+2025-05-15 23:33:17,442 - __main__ - INFO - Processing speech input
+2025-05-15 23:33:18,470 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:33:18,470 - __main__ - INFO - Speaking with Speechify: Please repeat that?
+2025-05-15 23:33:18,477 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103a0e210>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:33:19,592 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:33:20,554 - __main__ - INFO - Listening for user input
+2025-05-15 23:33:20,763 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-15 23:33:20,764 - __main__ - INFO - Speaking with Speechify: Goodbye!
+2025-05-15 23:33:20,769 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x103a0e5d0>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:35:28,311 - __main__ - INFO - Voice agent initialized
+2025-05-15 23:35:28,312 - __main__ - INFO - Speaking with Speechify: Welcome to Romana Restaurant. How can I help you today?
+2025-05-15 23:35:28,318 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x102512510>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:35:28,449 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:35:29,468 - __main__ - INFO - Listening for user input
+2025-05-15 23:35:33,767 - __main__ - INFO - Processing speech input
+2025-05-15 23:35:34,701 - __main__ - INFO - Recognized speech: special today
+2025-05-15 23:35:34,822 - __main__ - INFO - Speaking with Speechify: Our menu features authentic Italian cuisine. Today's specials include homemade lasagna, risotto with wild mushrooms, and tiramisu for dessert. Would you like to know about any specific dishes?
+2025-05-15 23:35:34,826 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x102561450>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:35:34,929 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:35:35,889 - __main__ - INFO - Listening for user input
+2025-05-15 23:35:41,280 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:35:42,395 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:35:43,359 - __main__ - INFO - Listening for user input
+2025-05-15 23:35:48,687 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:35:49,782 - __main__ - INFO - Shutting down via keyboard interrupt
+2025-05-15 23:35:49,782 - __main__ - INFO - Speaking with Speechify: Goodbye!
+2025-05-15 23:35:49,785 - __main__ - ERROR - Speechify TTS error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /tts/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x102561d10>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:36:19,217 - __main__ - INFO - Voice agent initialized
+2025-05-15 23:36:19,218 - __main__ - INFO - Speaking: Hello, I'm Romana's assistant. What can I do for you?
+2025-05-15 23:42:16,858 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:42:16,859 - __main__ - INFO - Converting to speech: Thanks for calling Romana Restaurant. How may I help?
+2025-05-15 23:42:16,867 - __main__ - ERROR - Speech synthesis error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /v1/speech (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1042b6f90>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:42:16,998 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:17,548 - __main__ - INFO - Listening for user input
+2025-05-15 23:42:21,250 - __main__ - INFO - Processing speech input
+2025-05-15 23:42:22,476 - __main__ - INFO - Recognized speech: what is special today
+2025-05-15 23:42:22,593 - __main__ - INFO - Converting to speech: Today's specials include Homemade lasagna, Risotto with wild mushrooms, and Tiramisu.
+2025-05-15 23:42:22,600 - __main__ - ERROR - Speech synthesis error: HTTPSConnectionPool(host='api.speechify.com', port=443): Max retries exceeded with url: /v1/speech (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1042fe0d0>: Failed to resolve 'api.speechify.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-15 23:42:22,705 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:23,164 - __main__ - INFO - Listening for user input
+2025-05-15 23:42:28,278 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:42:29,388 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:29,847 - __main__ - INFO - Listening for user input
+2025-05-15 23:42:35,479 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:42:36,588 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:37,048 - __main__ - INFO - Listening for user input
+2025-05-15 23:42:42,159 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:42:43,270 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:43,730 - __main__ - INFO - Listening for user input
+2025-05-15 23:42:48,837 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:42:49,980 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:50,442 - __main__ - INFO - Listening for user input
+2025-05-15 23:42:55,875 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:42:57,004 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:42:57,464 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:03,089 - __main__ - INFO - Processing speech input
+2025-05-15 23:43:04,866 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:43:05,985 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:06,445 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:08,944 - __main__ - INFO - Processing speech input
+2025-05-15 23:43:10,534 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:43:11,645 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:12,105 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:17,215 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:43:18,338 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:18,799 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:23,911 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:43:25,025 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:25,485 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:27,209 - __main__ - INFO - Processing speech input
+2025-05-15 23:43:28,641 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:43:29,750 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:30,213 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:35,323 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:43:36,439 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:36,904 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:42,005 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:43:43,117 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:43,578 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:48,691 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:43:49,825 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:50,286 - __main__ - INFO - Listening for user input
+2025-05-15 23:43:53,610 - __main__ - INFO - Processing speech input
+2025-05-15 23:43:55,539 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:43:56,640 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:43:57,101 - __main__ - INFO - Listening for user input
+2025-05-15 23:44:02,411 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:44:03,522 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:44:03,982 - __main__ - INFO - Listening for user input
+2025-05-15 23:44:09,088 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:45:04,542 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:45:04,542 - __main__ - INFO - Converting to speech: Welcome to Romana Restaurant. How can I help you today?
+2025-05-15 23:45:05,185 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:45:05,342 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:45:05,874 - __main__ - INFO - Listening for user input
+2025-05-15 23:45:10,412 - __main__ - INFO - Processing speech input
+2025-05-15 23:45:11,206 - __main__ - INFO - Recognized speech: special learning
+2025-05-15 23:45:11,329 - __main__ - INFO - Converting to speech: Today's specials include Homemade lasagna, Risotto with wild mushrooms, and Tiramisu.
+2025-05-15 23:45:11,903 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:45:12,012 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:45:12,472 - __main__ - INFO - Listening for user input
+2025-05-15 23:45:17,336 - __main__ - INFO - Processing speech input
+2025-05-15 23:45:18,802 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:45:21,228 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:45:21,229 - __main__ - INFO - Converting to speech: Hello, I'm Romana's assistant. What can I do for you?
+2025-05-15 23:45:21,881 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:45:21,993 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:45:22,531 - __main__ - INFO - Listening for user input
+2025-05-15 23:45:27,635 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:45:49,577 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:45:49,577 - __main__ - INFO - Converting to speech: Welcome to Romana Restaurant. How can I help you today?
+2025-05-15 23:45:50,226 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:45:50,362 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:45:50,881 - __main__ - INFO - Listening for user input
+2025-05-15 23:45:55,984 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:45:57,099 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:45:57,561 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:03,133 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:46:04,249 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:04,706 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:09,631 - __main__ - INFO - Processing speech input
+2025-05-15 23:46:11,476 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:46:12,592 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:13,055 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:18,306 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:46:19,416 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:19,876 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:27,497 - __main__ - INFO - Processing speech input
+2025-05-15 23:46:29,429 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:46:30,550 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:31,010 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:36,113 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:46:37,225 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:37,686 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:42,798 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:46:43,906 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:44,370 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:49,548 - __main__ - INFO - Processing speech input
+2025-05-15 23:46:51,674 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:46:52,786 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:53,246 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:54,969 - __main__ - INFO - Processing speech input
+2025-05-15 23:46:56,521 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:46:57,633 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:46:58,092 - __main__ - INFO - Listening for user input
+2025-05-15 23:46:59,557 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:01,100 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:47:02,225 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:02,686 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:05,310 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:06,463 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:47:09,880 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:47:09,880 - __main__ - INFO - Converting to speech: Thanks for calling Romana Restaurant. How may I help?
+2025-05-15 23:47:10,529 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:47:10,642 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:11,170 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:14,109 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:16,139 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:47:17,249 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:17,709 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:20,972 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:21,874 - __main__ - INFO - Recognized speech: today special
+2025-05-15 23:47:22,007 - __main__ - INFO - Converting to speech: Today's specials include Homemade lasagna, Risotto with wild mushrooms, and Tiramisu.
+2025-05-15 23:47:22,766 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:47:23,268 - __main__ - INFO - Converting to speech: Any other questions?
+2025-05-15 23:47:23,873 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:47:23,983 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:24,487 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:27,486 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:29,099 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:47:30,208 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:30,667 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:35,471 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:37,217 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:47:38,311 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:38,772 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:41,011 - __main__ - INFO - Processing speech input
+2025-05-15 23:47:42,580 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:47:43,711 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:44,172 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:49,683 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:47:50,801 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:51,265 - __main__ - INFO - Listening for user input
+2025-05-15 23:47:56,371 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:47:57,481 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:47:57,945 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:03,053 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:48:04,165 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:48:04,630 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:08,590 - __main__ - INFO - Processing speech input
+2025-05-15 23:48:10,497 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:48:11,590 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:48:12,054 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:17,156 - __main__ - WARNING - No speech detected within timeout period
+2025-05-15 23:48:18,259 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:48:18,720 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:25,059 - __main__ - INFO - Processing speech input
+2025-05-15 23:48:27,145 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:48:28,247 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:48:28,709 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:30,630 - __main__ - INFO - Processing speech input
+2025-05-15 23:48:32,345 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:48:33,452 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:48:33,916 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:38,511 - __main__ - INFO - Processing speech input
+2025-05-15 23:48:39,984 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:48:41,871 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:48:41,871 - __main__ - INFO - Converting to speech: Welcome to Romana Restaurant. How can I help you today?
+2025-05-15 23:48:42,509 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:48:42,631 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:48:43,169 - __main__ - INFO - Listening for user input
+2025-05-15 23:48:45,991 - __main__ - INFO - Processing speech input
+2025-05-15 23:48:47,595 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:52:39,288 - __main__ - INFO - Voice agent initialized successfully
+2025-05-15 23:52:39,289 - __main__ - INFO - Converting to speech: Hello, I'm Romana's assistant. What can I do for you?
+2025-05-15 23:52:40,265 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:52:40,446 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:52:40,985 - __main__ - INFO - Listening for user input
+2025-05-15 23:52:44,945 - __main__ - INFO - Processing speech input
+2025-05-15 23:52:46,036 - __main__ - INFO - Recognized speech: special on YouTube
+2025-05-15 23:52:46,158 - __main__ - INFO - Converting to speech: Today's specials include Homemade lasagna, Risotto with wild mushrooms, and Tiramisu.
+2025-05-15 23:52:47,159 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:52:47,267 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:52:47,731 - __main__ - INFO - Listening for user input
+2025-05-15 23:52:50,606 - __main__ - INFO - Processing speech input
+2025-05-15 23:52:52,342 - __main__ - WARNING - Speech recognition could not understand audio
+2025-05-15 23:52:53,456 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:52:53,918 - __main__ - INFO - Listening for user input
+2025-05-15 23:52:56,419 - __main__ - INFO - Processing speech input
+2025-05-15 23:52:57,308 - __main__ - INFO - Recognized speech: bouquet
+2025-05-15 23:52:57,427 - __main__ - INFO - Converting to speech: Thank you for contacting Romana Restaurant. How can I assist you with your dining experience today?
+2025-05-15 23:52:57,997 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:52:58,500 - __main__ - INFO - Converting to speech: Any other questions?
+2025-05-15 23:52:59,085 - __main__ - ERROR - Speechify API error: 404 - 404 page not found
+
+2025-05-15 23:52:59,192 - __main__ - INFO - Adjusting microphone for ambient noise
+2025-05-15 23:52:59,656 - __main__ - INFO - Listening for user input
+2025-05-15 23:53:04,892 - __main__ - INFO - Processing speech input
+2025-05-15 23:53:06,667 - __main__ - WARNING - Speech recognition could not understand audio

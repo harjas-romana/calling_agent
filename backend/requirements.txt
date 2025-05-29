@@ -1,0 +1,40 @@
+# FastAPI and server dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# HTTP and API dependencies
+requests==2.31.0
+httpx==0.25.2
+
+# Audio processing dependencies
+sounddevice==0.4.6
+soundfile==0.12.1
+numpy==1.24.3
+SpeechRecognition==3.10.0
+
+# Data processing dependencies
+pydantic==2.5.0
+python-json-logger==2.0.7
+
+# Your existing project dependencies
+# (These should match what you already have in your project)
+
+# Optional: For better development experience
+python-dotenv==1.0.0
+
+# Optional: For enhanced logging
+coloredlogs==15.0.1
+
+# Optional: For better async support
+aiofiles==23.2.1
+
+# Optional: For database integration (if needed later)
+sqlalchemy==2.0.23
+alembic==1.13.1
+
+# Optional: For Redis caching (if needed later)
+redis==5.0.1
+
+# Optional: For WebSocket support (if needed later)
+websockets==12.0

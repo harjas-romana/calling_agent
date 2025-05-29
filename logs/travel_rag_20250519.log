@@ -1,0 +1,5 @@
+2025-05-19 12:32:36,231 - TravelRAGLayer - INFO - API connection validated
+2025-05-19 13:19:43,346 - TravelRAGLayer - ERROR - API validation error: API connection failed: {"error":{"message":"No auth credentials found","code":401}}
+2025-05-19 13:21:39,198 - TravelRAGLayer - INFO - API connection validated
+2025-05-19 13:25:26,656 - TravelRAGLayer - ERROR - API validation error: API connection failed: {"error":{"message":"No auth credentials found","code":401}}
+2025-05-19 13:27:41,483 - TravelRAGLayer - ERROR - API validation error: API connection failed: {"error":{"message":"No auth credentials found","code":401}}

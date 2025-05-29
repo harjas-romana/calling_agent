@@ -1,0 +1,28 @@
+2025-05-16 00:06:30,729 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:07:37,974 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:07:53,364 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:11:39,759 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:12:07,862 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:21:19,120 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:21:52,910 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:26:18,987 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:26:49,538 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:31:07,638 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:32:56,703 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:34:32,363 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:40:57,891 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:41:17,570 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:42:06,088 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:48:36,809 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:48:58,435 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:56:50,416 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:58:45,673 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 00:59:35,132 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 01:00:39,336 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 01:01:28,540 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 01:02:54,873 - RAGLayer - ERROR - API connection error: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1089701a0>: Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-16 01:03:05,446 - RAGLayer - ERROR - API connection error: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10c9701a0>: Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-16 01:03:19,154 - RAGLayer - ERROR - API connection error: HTTPSConnectionPool(host='openrouter.ai', port=443): Max retries exceeded with url: /api/v1/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x10cde01a0>: Failed to resolve 'openrouter.ai' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-05-16 09:08:26,341 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 09:18:16,385 - RAGLayer - INFO - API connection validated successfully
+2025-05-16 10:18:15,113 - RAGLayer - INFO - API connection validated successfully

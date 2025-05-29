@@ -1,0 +1,13 @@
+2025-05-22 10:13:26,493 - RAGLayer - ERROR - API validation failed: 401 - {"error":{"message":"No auth credentials found","code":401}}
+2025-05-22 10:13:53,083 - RAGLayer - ERROR - API validation failed: 401 - {"error":{"message":"No auth credentials found","code":401}}
+2025-05-22 10:30:35,726 - RAGLayer - ERROR - API validation failed: 401 - {"error":{"message":"No auth credentials found","code":401}}
+2025-05-22 10:30:55,228 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:32:22,572 - RAGLayer - ERROR - API validation failed: 401 - {"error":{"message":"No auth credentials found","code":401}}
+2025-05-22 10:34:57,153 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:35:16,576 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:35:31,391 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:37:15,947 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:38:28,313 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:43:44,534 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:46:30,810 - RAGLayer - INFO - API connection validated successfully
+2025-05-22 10:52:09,750 - RAGLayer - INFO - API connection validated successfully
