@@ -1,0 +1,5 @@
+2025-05-30 14:53:01,117 - RAGLayer - INFO - API connection validated successfully
+2025-05-30 14:55:22,477 - RAGLayer - INFO - API connection validated successfully
+2025-05-30 15:16:17,286 - RAGLayer - ERROR - API connection error: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=5)
+2025-05-30 15:16:29,851 - RAGLayer - INFO - API connection validated successfully
+2025-05-30 15:39:27,134 - RAGLayer - ERROR - API connection error: HTTPSConnectionPool(host='openrouter.ai', port=443): Read timed out. (read timeout=5)

@@ -92,6 +92,8 @@ class RAGLayer:
         except requests.exceptions.RequestException as e:
             self.logger.error(f"API connection error: {str(e)}")
             raise ConnectionError(f"Failed to connect to OpenRouter API: {str(e)}")
+        
+        
     
     def _setup_logging(self) -> logging.Logger:
         """
